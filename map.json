@@ -104,15 +104,21 @@
          "name":"room",
          "objects":[
                 {
-                 "height":87.9748310417152,
+                 "height":110.114192495922,
                  "id":1,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":223.724073642508,
                  "x":607.084595665346,
-                 "y":517.944535073409
+                 "y":505.709624796084
                 }],
          "opacity":1,
          "properties":[
