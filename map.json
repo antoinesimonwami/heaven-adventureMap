@@ -121,12 +121,6 @@
                  "y":505.709624796084
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"onaction"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
