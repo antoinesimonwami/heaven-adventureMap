@@ -109,7 +109,7 @@
                  "name":"",
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
