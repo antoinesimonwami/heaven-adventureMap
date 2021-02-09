@@ -97,9 +97,37 @@
          "visible":true,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":18,
+         "name":"room",
+         "objects":[
+                {
+                 "height":87.9748310417152,
+                 "id":1,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":223.724073642508,
+                 "x":607.084595665346,
+                 "y":517.944535073409
+                }],
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"onaction"
+                }],
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":18,
- "nextobjectid":1,
+ "nextlayerid":19,
+ "nextobjectid":3,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
